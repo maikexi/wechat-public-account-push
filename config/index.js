@@ -1,19 +1,19 @@
 export const config = {
     // 公众号配置
     // 公众号appId
-    appId: "",
+    appId: "wxf73e84e76d37d885",
     // 公众号appSecret
-    appSecret: "",
+    appSecret: "74d270ff3bdbe2b52cd8e4d354f89c73",
     // 模板消息id
-    templateId: "",
+    templateId: "Ex-H40ny6aM3RSSqZeFzEBVMQ3Yvu6Qo3lLNS8ZiVMY",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: [],
+    user: [oNoFut3LYJau98X1zmWjyjSRCesA],
      
     // 信息配置
     // 所在省份
-    province: "广东",
+    province: "宁夏",
     // 所在城市
-    city: "惠州",
+    city: "贺兰",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "老婆", "year": "1993", "date": "12-27", "type": 'new'},
